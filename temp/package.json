@@ -1,0 +1,14 @@
+{
+  "name": "9352988bfe129898",
+  "main": "9352988bfe129898@261.js",
+  "version": "261.0.0",
+  "homepage": "https://observablehq.com/d/9352988bfe129898",
+  "author": {
+    "name": "markpaulin",
+    "url": "https://observablehq.com/@markpaulin"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
